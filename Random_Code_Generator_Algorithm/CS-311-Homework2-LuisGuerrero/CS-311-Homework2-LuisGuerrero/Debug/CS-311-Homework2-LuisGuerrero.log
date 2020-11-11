@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Production.cpp
+C:\Users\Diego Admin\Documents\GitHub\CS-311-Homework_LuisG\CS-311-Homework2-LuisGuerrero\CS-311-Homework2-LuisGuerrero\Production.cpp(32,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Diego Admin\Documents\GitHub\CS-311-Homework_LuisG\CS-311-Homework2-LuisGuerrero\CS-311-Homework2-LuisGuerrero\Production.cpp(31,9): warning C4101: 'n': unreferenced local variable
+  Generating Code...
+  CS-311-Homework2-LuisGuerrero.vcxproj -> C:\Users\Diego Admin\Documents\GitHub\CS-311-Homework_LuisG\CS-311-Homework2-LuisGuerrero\Debug\CS-311-Homework2-LuisGuerrero.exe
