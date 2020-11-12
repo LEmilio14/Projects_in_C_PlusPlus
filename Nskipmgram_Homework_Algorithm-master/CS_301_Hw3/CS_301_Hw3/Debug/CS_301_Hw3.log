@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Diego Admin\Documents\GitHub\CS_301_Hw3\CS_301_Hw3\CS_301_Hw3\Main.cpp(17,7): warning C4101: 'c': unreferenced local variable
+C:\Users\Diego Admin\Documents\GitHub\CS_301_Hw3\CS_301_Hw3\CS_301_Hw3\Main.cpp(14,26): warning C4101: 'temp': unreferenced local variable
+  CS_301_Hw3.vcxproj -> C:\Users\Diego Admin\Documents\GitHub\CS_301_Hw3\CS_301_Hw3\Debug\CS_301_Hw3.exe
